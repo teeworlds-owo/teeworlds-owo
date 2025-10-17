@@ -2871,6 +2871,8 @@ if(SERVER)
     gamemodes/instagib/zcatch/zcatch.h
     gamemodes/mod.cpp
     gamemodes/mod.h
+    gamemodes/owo/owo.cpp
+    gamemodes/owo/owo.h
     gamemodes/vanilla/base_vanilla.cpp
     gamemodes/vanilla/base_vanilla.h
     gamemodes/vanilla/ctf/ctf.cpp
